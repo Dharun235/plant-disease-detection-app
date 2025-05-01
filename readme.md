@@ -19,8 +19,8 @@ A simple web app to detect plant diseases using leaf images and a TensorFlow Lit
     pip install -r requirements.txt
 
 3. Run the app:
-``` bash
-    streamlit run app.py
+```bash
+   streamlit run app.py
 
 ## 📁 Files
 
