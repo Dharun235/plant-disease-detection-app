@@ -15,11 +15,11 @@ A simple web app to detect plant diseases using leaf images and a TensorFlow Lit
    cd plant-disease-app
 
 2. Install requirements:
-```bash
+   ```bash
     pip install -r requirements.txt
 
 3. Run the app:
-```bash
+   ```bash
    streamlit run app.py
 
 ## 📁 Files
@@ -29,7 +29,6 @@ A simple web app to detect plant diseases using leaf images and a TensorFlow Lit
 3. labels.txt – Output class names
 
 ## 🧠 Convert Keras to TFLite
-```bash 
     python to_tflite.py
 
 ## 🌍 Deployment
